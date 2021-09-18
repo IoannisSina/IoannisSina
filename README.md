@@ -12,9 +12,9 @@
 ### Connect with me:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ioannis-sina-8b41531a1/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-<a href="https://www.facebook.com/john.sinas.18/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
-<a href="https://www.instagram.com/j_sinakhs/"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/in/ioannis-sina-8b41531a1/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/john.sinas.18/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/j_sinakhs/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
 </p>
 <br />
 
