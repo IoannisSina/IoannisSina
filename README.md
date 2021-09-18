@@ -1,4 +1,4 @@
-### Hi there, I'm [John Sina][website] 👋
+### 👋 Hi there, I'm [John Sina][website]
 
 [![Website](https://img.shields.io/website?label=IoannisSina.com&style=for-the-badge&url=https://ioannissina.github.io/)](https://ioannissina.github.io/)
 
@@ -9,7 +9,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects and graduate
 - ⚡ Fun fact: I love to program and play guitar
 
-### Connect with me:
+### :telephone: Connect with me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ioannis-sina-8b41531a1/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
@@ -18,7 +18,7 @@
 </p>
 <br />
 
-### Languages and Tools:
+### :wrench: Languages and Tools
 
 <a style="text-decoration: none;" href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a style="text-decoration: none;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
@@ -39,20 +39,20 @@
 <br />
 
 ---
-
-<details>
-  <summary>:top: Top languages</summary>
+### :zap: GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IoannisSina&show_icons=true&layout=compact&theme=cobalt)](https://git.io/streak-stats)
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<img align="left" alt="IoannisSina GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IoannisSina&show_icons=true&theme=cobalt" />
 
-  <img align="left" alt="IoannisSina GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IoannisSina&show_icons=true&theme=cobalt" />
 
-</details>
+
+
+
+
+
 
 
 
