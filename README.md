@@ -5,7 +5,7 @@
 
 #### :pencil: About me:
 
-- 🔭 2021 Summer job: Google Summer of Code with GFOSS. Check [here.](https://github.com/eellak/gsoc2021-audio-annotation-tool)
+- 🔭 2021 Summer job: Google Summer of Code with GFOSS. Check [here](https://github.com/eellak/gsoc2021-audio-annotation-tool/blob/main/docs/GSOC_FINAL_REPORT.md)
 - 🌱 I’m currently studying Computer engineering
 - 🥅 2022 Goals: Contribute more to Open Source projects and graduate
 - ⚡ Fun fact: I love to program and play guitar
