@@ -14,8 +14,8 @@
 
 #### :telephone: Connect with me:
 
-<a href="https://www.linkedin.com/in/ioannissina/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="30"></a>
-<a href="https://www.facebook.com/john.sinas.18/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="30"></a>
+<a href="https://www.linkedin.com/in/ioannissina/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="35"></a>
+<a href="https://www.facebook.com/john.sinas.18/" target="_blank"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="35"></a>
 <br />
 
 
