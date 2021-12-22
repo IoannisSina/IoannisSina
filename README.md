@@ -36,7 +36,7 @@
 
 #### :zap: GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IoannisSina&langs_count=8&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IoannisSina&show_icons=true&layout=compact&theme=cobalt)](https://git.io/streak-stats)
 
