@@ -32,6 +32,7 @@
 <a style="text-decoration: none;" href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img target="_blank" alt="Visual Studio Code" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" /> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img target="_blank" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" /> </a>
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank"> <img target="_blank" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" /> </a>
 <a href="https://www.php.net/" target="_blank"> <img target="_blank" width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" /> </a>
 
 #### :zap: GitHub Stats:
