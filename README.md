@@ -46,7 +46,7 @@
 
 
 
-[website]: https://ioannissina.github.io/ 
+[website]: https://sinaioannis.com/ 
 [instagram]: https://www.instagram.com/j_sinakhs/ 
 [linkedin]: https://www.linkedin.com/in/ioannis-sina-8b41531a1/ 
 [facebook]: https://www.facebook.com/john.sinas.18/
