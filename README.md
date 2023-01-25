@@ -36,14 +36,7 @@
 
 #### :zap: GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IoannisSina&langs_count=8&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IoannisSina&show_icons=true&layout=compact&theme=cobalt)](https://git.io/streak-stats)
-
-<img align="left" alt="IoannisSina GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IoannisSina&show_icons=true&theme=cobalt" />
-
-
-
 
 [website]: https://sinaioannis.com/ 
 [instagram]: https://www.instagram.com/j_sinakhs/ 
