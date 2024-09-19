@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm [Ioannis Sina][website] and I'm currently a student at the [University of Patras](https://www.upatras.gr/en/)!
+### 👋 Hi there, I'm [Ioannis Sina][website] and I am a computer engineering graduate from the University of Patras! 
 
 <!-- [![Website](https://img.shields.io/website?label=IoannisSina.com&style=for-the-badge&url=https://ioannissina.github.io/)](https://ioannissina.github.io/) -->
 ---
