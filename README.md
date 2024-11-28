@@ -5,11 +5,9 @@
 
 #### :pencil: About me:
 
-- 🖋️ Check out [https://yourpen.ai/](https://yourpen.ai/)
-- 🔭 2021 Summer job: Google Summer of Code with GFOSS. Check [here](https://github.com/eellak/gsoc2021-audio-annotation-tool/blob/main/docs/GSOC_FINAL_REPORT.md)
+- 🖋️ Previous work [https://yourpen.ai/](https://yourpen.ai/)
 - 🎆 Recently graduated from CEID, University of Patras
-- 🥅 2024 Goals: Contribute more to Open Source projects and graduate
-- ⚡ Fun fact: I love to program and create music
+- ⚡ Fun fact: I love to code and create music
 
 
 
